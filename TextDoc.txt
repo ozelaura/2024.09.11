@@ -1,1 +1,1 @@
-első sor megváltoztatása branch2 ágon
+ütközés bemutatása
